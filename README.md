@@ -49,7 +49,7 @@ Deploy Link: https://modesensclone.netlify.app
 
 <ul>
 
-  <li><a href="https://github.com/iamdebobrota">@Debu Haldar</a></li>
+  <li><a href="https://github.com/iamdebobrota">@Debobrota Haldar</a></li>
   <li><a href="https://github.com/Parth-Bisht">@Parth Bisht</a></li>
   <li><a href="https://github.com/muskan2507">@Muskan Shaw</a></li>
   <li><a href="https://github.com/Navedphysicist">@Naveed Khan</a></li>
